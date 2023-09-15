@@ -1,4 +1,4 @@
-## ![Taimoor Picture](./assets/images/picture.jpg)
+<img src="./assets/images/picture.jpg" alt="drawing" width="200"/>
 
 ## layout: default
 
