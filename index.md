@@ -1,4 +1,4 @@
-<img src="./assets/images/picture.jpg" alt="drawing" width="200"/>
+<img src="./assets/images/picture.jpg" alt="drawing" width="400"/>
 
 ## layout: default
 
