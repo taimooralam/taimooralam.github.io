@@ -1,5 +1,8 @@
 title: Taimoor Alam
 description: Software Architect
 show_downloads: false
+navigation:
+  test: www.google.com
+  test2: www.google.com
 google_analytics:
 theme: jekyll-theme-cayman
