@@ -1,4 +1,4 @@
-<div id="#nav" style="background-color: rgb(21, 153, 87); display: flex row; justify-content: space-around">
+<div id="#nav" style="background-color: #159957; background-image: linear-gradient(120deg, #155799, #159957); display: flex row; justify-content: space-evenly; border-radius: 5px">
   <span>
     <a href="https://www.youtube.com/channel/UC4d7i6K3bdgI2w_o2xMeHKw">
       <img style="margin: 0px 0px -8px 0px;" width="30" src="https://static.vecteezy.com/system/resources/previews/018/930/572/original/youtube-logo-youtube-icon-transparent-free-png.png">Youtube </a>
