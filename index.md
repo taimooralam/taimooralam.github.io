@@ -1,127 +1,14 @@
-<div id="#nav" style="background-color: rgb(21, 153, 87);"><span>Youtube</span><span>LinkedIn</span></div>
+<div id="#nav" style="background-color: rgb(21, 153, 87);"><span><a href="https://www.youtube.com/channel/UC4d7i6K3bdgI2w_o2xMeHKw"><img src="https://static.vecteezy.com/system/resources/previews/018/930/572/original/youtube-logo-youtube-icon-transparent-free-png.png">Youtube</a></span><span>LinkedIn</span></div>
 
 <img src="./assets/images/picture.jpg" align="left" alt="drawing" width="400" style="margin: 0px 30px 20px 0px;"/>
-Hello, I am a Software Architect. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec maximus mollis pretium. Pellentesque a felis lacus. Aliquam pretium egestas purus, sit amet ultrices mauris facilisis sit amet. Curabitur ut placerat erat. Quisque volutpat feugiat sem vel sollicitudin. Donec pellentesque justo id risus accumsan mollis. Donec volutpat neque arcu, a congue libero luctus in. Vestibulum eros sem, malesuada et euismod vel, tincidunt nec velit. Duis porttitor auctor neque ut gravida. Nulla nec condimentum sem, dignissim scelerisque quam. Sed in urna id orci imperdiet sodales. Aenean maximus dui metus, eget aliquet odio dictum sit amet. Proin tellus dui, efficitur vitae ligula id, placerat ultrices risus. Proin suscipit dui in ante interdum, in accumsan justo tempor. Pellentesque elementum sapien eget pharetra dignissim.
+In the heart of my professional journey, I've thrived as a Technical Leader for over 3 years, orchestrating cross-functional agile teams with finesse. I've sculpted my expertise working in harmony with Product Owners and stakeholders, seamlessly translating intricate business needs into robust tech solutions. My approach is systematic, rooted in the principles of Domain Driven Design (DDD), where I don't just build systems; I engineer solutions that are emblematic of synergy between technology and business.
 
-## layout: default
+For nearly a decade, I've been immersed in the world of Software Development, a realm where my passion meets proficiency. With a palette of languages including Typescript, Javascript, Node.js, and Python, I've woven a tapestry of reliable, scalable, and maintainable software systems. It's not just about writing code; it's about architecting systems that stand the test of time, systems that breathe life into the digital realm.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+What truly sets my soul on fire is collaboration. I revel in the dynamism of cross-functional agile teams, where creativity meets strategy. Collaborating closely with Product Owners and stakeholders, I find joy in harmonizing their vision with the intricate nuances of technology. It's about more than just understanding requirements; it's about creating an ecosystem where technology and business symbiotically evolve.
 
-[Link to another page](./another-page.html).
+My passion extends to the realm of clean microservices architecture. I'm not just an advocate; I'm a practitioner. I've delved into the depths of monolithic systems, skillfully unraveling their intricacies and transforming them into sleek, efficient microservices. Tech debt isn't a burden; it's a challenge I embrace, strategizing its minimization and fearlessly refactoring legacy code into the elegant simplicity of DDD.
 
-There should be whitespace between paragraphs.
+As a fully hands-on Tech-Lead engineer, I don't just lead from the front; I guide from within. I mentor my colleagues, sharing the wisdom of strategic decoupling, the artistry of performant APIs, and the intricacies of devolving monoliths into microservices. My role isn't just about managing tasks; it's about fostering a culture of innovation, where each line of code weaves a story of progress and each challenge becomes a stepping stone toward excellence.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CZoLlYOn52M?si=P4hMZoe_LAJKZ2vy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require("./lang/" + l);
-  return true;
-};
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-- This is an unordered list following a header.
-- This is an unordered list following a header.
-- This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-| :----------- | :---------------- | :---- |
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
----
-
-### Here is an unordered list:
-
-- Item foo
-- Item bar
-- Item baz
-- Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+In the tapestry of my career, these experiences aren't mere bullet points; they're chapters that narrate a compelling story of dedication, innovation, and unwavering passion for the art and science of technology. Every project I undertake, every team I lead, and every line of code I write is a testament to my commitment to the ever-evolving intersection of business and technology.
