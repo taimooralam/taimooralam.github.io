@@ -5,7 +5,7 @@
   </span>
   <span>
     <a href="https://www.youtube.com/channel/UC4d7i6K3bdgI2w_o2xMeHKw">
-      <img style="margin: 0px 0px -2px 0px;" width="30" src="https://cdn-icons-png.flaticon.com/256/174/174857.png">LinkedIn </a>
+      <img style="margin: 0px 0px -2px 0px;" width="20" src="https://cdn-icons-png.flaticon.com/256/174/174857.png">LinkedIn </a>
   </span>
 </div>
 
