@@ -4,7 +4,7 @@
       <img style="margin: 0px 0px -8px 0px;" width="30" src="https://static.vecteezy.com/system/resources/previews/018/930/572/original/youtube-logo-youtube-icon-transparent-free-png.png">Youtube </a>
   </span>
   <span>
-    <a href="https://www.youtube.com/channel/UC4d7i6K3bdgI2w_o2xMeHKw">
+    <a href="https://www.linkedin.com/in/taimooralam/">
       <img style="margin: 0px 0px -2px 0px;" width="20" src="https://cdn-icons-png.flaticon.com/256/174/174857.png">LinkedIn </a>
   </span>
 </div>
