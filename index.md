@@ -1,5 +1,5 @@
 <div id="#nav" style="background-color: #159957; background-image: linear-gradient(120deg, #155799, #159957); display: flex; justify-content: space-evenly; border-radius: 5px">
-<h2>{{ site.data.simpleList.docs_list_title }}</h2>
+
   <span>
   <span>
     <a style="color: #fff" href="https://www.youtube.com/channel/UC4d7i6K3bdgI2w_o2xMeHKw">
@@ -11,8 +11,9 @@
   </span>
 </div>
 
+<h2>{{ site.data.simpleList.docs_list_title }}</h2>
 <ul>
-   {% for item in site.data.samplelist.docs %}
+   {% for item in site.data.simpleList.docs %}
       <li><a href="{{ item.url }}">{{ item.title }}</a></li>
    {% endfor %}
 </ul>
