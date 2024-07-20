@@ -17,6 +17,16 @@
       <li><a href="{{ item.url }}">{{ item.title }}</a></li>
    {% endfor %}
 </ul>
+ 
+ 
+ Posts
+<ul>
+  {% for post in site._posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 <img src="./assets/images/picture.jpg" align="left" alt="drawing" width="400" style="margin: 0px 30px 20px 0px;"/>
 In the heart of my professional journey, I've thrived as a Technical Leader for over 3 years, orchestrating cross-functional agile teams with finesse. I've sculpted my expertise working in harmony with Product Owners and stakeholders, seamlessly translating intricate business needs into robust tech solutions. My approach is systematic, rooted in the principles of Domain Driven Design (DDD), where I don't just build systems; I engineer solutions that are emblematic of synergy between technology and business.
