@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Welcome to Jekyll!"
+preview: "This is a test preview"
 ---
 
 # Welcome

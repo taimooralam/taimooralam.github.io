@@ -24,6 +24,7 @@
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
+      <span>{{ post.preview }}</span>
     </li>
   {% endfor %}
 </ul>
