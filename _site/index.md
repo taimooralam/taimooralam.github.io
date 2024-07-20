@@ -1,11 +1,4 @@
 <div id="#nav" style="background-color: rgb(21, 153, 87);">
-  <h2>{{ site.data.simpleList.docs_list_title }}</h2>
-  <ul>
-   {% for item in site.data.samplelist.docs %}
-      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-   {% endfor %}
-  </ul>
-  <span>
     <a href="https://www.youtube.com/channel/UC4d7i6K3bdgI2w_o2xMeHKw">
       <img style="margin: 0px 0px -8px 0px;" width="30" src="https://static.vecteezy.com/system/resources/previews/018/930/572/original/youtube-logo-youtube-icon-transparent-free-png.png">Youtube </a>
   </span>
