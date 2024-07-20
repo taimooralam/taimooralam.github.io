@@ -1,10 +1,5 @@
 <div id="#nav" style="background-color: #159957; background-image: linear-gradient(120deg, #155799, #159957); display: flex; justify-content: space-evenly; border-radius: 5px">
 <h2>{{ site.data.simpleList.docs_list_title }}</h2>
-  <ul>
-   {% for item in site.data.samplelist.docs %}
-      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-   {% endfor %}
-  </ul>
   <span>
   <span>
     <a style="color: #fff" href="https://www.youtube.com/channel/UC4d7i6K3bdgI2w_o2xMeHKw">
@@ -15,6 +10,12 @@
       <img style="margin: 0px 0px -2px 0px;" width="20" src="https://cdn-icons-png.flaticon.com/256/174/174857.png">LinkedIn </a>
   </span>
 </div>
+
+<ul>
+   {% for item in site.data.samplelist.docs %}
+      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+   {% endfor %}
+</ul>
 
 <img src="./assets/images/picture.jpg" align="left" alt="drawing" width="400" style="margin: 0px 30px 20px 0px;"/>
 In the heart of my professional journey, I've thrived as a Technical Leader for over 3 years, orchestrating cross-functional agile teams with finesse. I've sculpted my expertise working in harmony with Product Owners and stakeholders, seamlessly translating intricate business needs into robust tech solutions. My approach is systematic, rooted in the principles of Domain Driven Design (DDD), where I don't just build systems; I engineer solutions that are emblematic of synergy between technology and business.
