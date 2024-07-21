@@ -126,6 +126,10 @@ a {
   @include small {
     padding: 2rem 1rem;
   }
+
+  .single-nav {
+    border: 3px solid $header-bg-color;
+  }
 }
 
 .project-name {
